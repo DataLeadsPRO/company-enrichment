@@ -1,5 +1,5 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.json",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.DataLeadsPRO/company-enrichment",
   "description": "Enrich any domain into a full company profile with firmographics and buying signals.",
   "version": "1.0.0",

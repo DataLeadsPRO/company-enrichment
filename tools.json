@@ -1,0 +1,14 @@
+[
+  {
+    "name": "company",
+    "method": "POST",
+    "path": "/company",
+    "description": "V1 Company"
+  },
+  {
+    "name": "company_signals",
+    "method": "POST",
+    "path": "/company/signals",
+    "description": "V1 Company Signals"
+  }
+]
